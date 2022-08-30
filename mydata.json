@@ -1,0 +1,4543 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-06-30T15:23:48.435Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Post object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-06-30T15:24:26.487Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Post object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-06-30T15:24:52.833Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Post object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-06-30T15:25:02.392Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Post object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-06-30T15:35:17.214Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Post object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-06-30T15:35:24.350Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Post object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-06-30T15:35:32.128Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Post object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-06-30T15:37:52.691Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Post object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-06-30T15:40:37.388Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Post object (3)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-06-30T15:40:44.979Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Post object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-06-30T15:40:52.793Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Post object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-06-30T15:41:37.121Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Post object (2)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-06-30T15:41:41.271Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Post object (1)",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-07-03T15:13:29.154Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Author object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"User\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-07-03T15:14:25.026Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Post object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-07-03T15:15:23.472Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Post object (5)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-07-03T15:15:57.110Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Post object (6)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2022-07-03T15:16:38.181Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Post object (7)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2022-07-03T15:17:29.401Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Post object (8)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2022-07-03T15:18:20.979Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Post object (9)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2022-07-03T15:18:51.987Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Post object (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2022-07-03T15:19:26.524Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Post object (11)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2022-07-16T23:22:54.105Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "127.0.0.1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Domain name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2022-07-18T11:03:49.856Z",
+      "user": 1,
+      "content_type": 3,
+      "object_id": "1",
+      "object_repr": "common",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2022-07-18T11:04:16.941Z",
+      "user": 1,
+      "content_type": 3,
+      "object_id": "2",
+      "object_repr": "authors",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2022-07-18T20:20:47.703Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Google",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2022-07-18T20:34:52.516Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "2",
+      "object_repr": "username1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2022-07-18T20:35:03.387Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "4",
+      "object_repr": "yastr",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2022-07-18T21:09:35.998Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "4",
+      "object_repr": "yastr",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2022-07-18T21:19:37.819Z",
+      "user": 1,
+      "content_type": 3,
+      "object_id": "2",
+      "object_repr": "authors",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Permissions\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2022-07-20T20:08:47.180Z",
+      "user": 1,
+      "content_type": 18,
+      "object_id": "1",
+      "object_repr": "Subscriber object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2022-07-21T19:39:14.811Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "7",
+      "object_repr": "eshperber",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2022-07-21T19:46:45.973Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "4",
+      "object_repr": "yastr",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2022-07-21T20:01:12.379Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "9",
+      "object_repr": "3420971",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2022-07-24T12:19:17.235Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "10",
+      "object_repr": "3420971",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2022-07-24T12:19:27.174Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "8",
+      "object_repr": "eshperber",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2022-07-24T13:58:15.002Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "20",
+      "object_repr": "PostCategory object (20)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2022-07-24T14:00:24.005Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "21",
+      "object_repr": "PostCategory object (21)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2022-07-24T14:02:28.225Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "22",
+      "object_repr": "PostCategory object (22)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2022-07-25T19:22:55.139Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "12",
+      "object_repr": "eshperber",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2022-07-25T19:23:01.428Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "11",
+      "object_repr": "3420971",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2022-07-25T19:42:31.301Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "13",
+      "object_repr": "eshperber",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2022-07-25T19:49:14.921Z",
+      "user": 1,
+      "content_type": 4,
+      "object_id": "14",
+      "object_repr": "eshperber",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2022-08-08T20:26:10.272Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "47",
+      "object_repr": "Спортивная статья__test",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add author",
+      "content_type": 7,
+      "codename": "add_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change author",
+      "content_type": 7,
+      "codename": "change_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete author",
+      "content_type": 7,
+      "codename": "delete_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view author",
+      "content_type": 7,
+      "codename": "view_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add category",
+      "content_type": 8,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change category",
+      "content_type": 8,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete category",
+      "content_type": 8,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view category",
+      "content_type": 8,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add post",
+      "content_type": 9,
+      "codename": "add_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change post",
+      "content_type": 9,
+      "codename": "change_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete post",
+      "content_type": 9,
+      "codename": "delete_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view post",
+      "content_type": 9,
+      "codename": "view_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add post category",
+      "content_type": 10,
+      "codename": "add_postcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change post category",
+      "content_type": 10,
+      "codename": "change_postcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete post category",
+      "content_type": 10,
+      "codename": "delete_postcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view post category",
+      "content_type": 10,
+      "codename": "view_postcategory"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add comment",
+      "content_type": 11,
+      "codename": "add_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change comment",
+      "content_type": 11,
+      "codename": "change_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete comment",
+      "content_type": 11,
+      "codename": "delete_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view comment",
+      "content_type": 11,
+      "codename": "view_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add site",
+      "content_type": 12,
+      "codename": "add_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change site",
+      "content_type": 12,
+      "codename": "change_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete site",
+      "content_type": 12,
+      "codename": "delete_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view site",
+      "content_type": 12,
+      "codename": "view_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add email address",
+      "content_type": 13,
+      "codename": "add_emailaddress"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change email address",
+      "content_type": 13,
+      "codename": "change_emailaddress"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete email address",
+      "content_type": 13,
+      "codename": "delete_emailaddress"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view email address",
+      "content_type": 13,
+      "codename": "view_emailaddress"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add email confirmation",
+      "content_type": 14,
+      "codename": "add_emailconfirmation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change email confirmation",
+      "content_type": 14,
+      "codename": "change_emailconfirmation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete email confirmation",
+      "content_type": 14,
+      "codename": "delete_emailconfirmation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view email confirmation",
+      "content_type": 14,
+      "codename": "view_emailconfirmation"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add social account",
+      "content_type": 15,
+      "codename": "add_socialaccount"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change social account",
+      "content_type": 15,
+      "codename": "change_socialaccount"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete social account",
+      "content_type": 15,
+      "codename": "delete_socialaccount"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view social account",
+      "content_type": 15,
+      "codename": "view_socialaccount"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add social application",
+      "content_type": 16,
+      "codename": "add_socialapp"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change social application",
+      "content_type": 16,
+      "codename": "change_socialapp"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete social application",
+      "content_type": 16,
+      "codename": "delete_socialapp"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view social application",
+      "content_type": 16,
+      "codename": "view_socialapp"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+      "name": "Can add social application token",
+      "content_type": 17,
+      "codename": "add_socialtoken"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+      "name": "Can change social application token",
+      "content_type": 17,
+      "codename": "change_socialtoken"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+      "name": "Can delete social application token",
+      "content_type": 17,
+      "codename": "delete_socialtoken"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+      "name": "Can view social application token",
+      "content_type": 17,
+      "codename": "view_socialtoken"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+      "name": "Can add subscriber",
+      "content_type": 18,
+      "codename": "add_subscriber"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+      "name": "Can change subscriber",
+      "content_type": 18,
+      "codename": "change_subscriber"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+      "name": "Can delete subscriber",
+      "content_type": 18,
+      "codename": "delete_subscriber"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+      "name": "Can view subscriber",
+      "content_type": 18,
+      "codename": "view_subscriber"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+      "name": "Can add django job",
+      "content_type": 19,
+      "codename": "add_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+      "name": "Can change django job",
+      "content_type": 19,
+      "codename": "change_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+      "name": "Can delete django job",
+      "content_type": 19,
+      "codename": "delete_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+      "name": "Can view django job",
+      "content_type": 19,
+      "codename": "view_djangojob"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 77,
+    "fields": {
+      "name": "Can add django job execution",
+      "content_type": 20,
+      "codename": "add_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 78,
+    "fields": {
+      "name": "Can change django job execution",
+      "content_type": 20,
+      "codename": "change_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 79,
+    "fields": {
+      "name": "Can delete django job execution",
+      "content_type": 20,
+      "codename": "delete_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 80,
+    "fields": {
+      "name": "Can view django job execution",
+      "content_type": 20,
+      "codename": "view_djangojobexecution"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+      "name": "common",
+      "permissions": []
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+      "name": "authors",
+      "permissions": [
+        33,
+        34
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$XTpCrXBxUhmS0Ijlg5IbSH$H9RUsP/qmafeHhxSfQAACF+z7evFF98hB4R/nLg5nBY=",
+      "last_login": "2022-07-25T21:05:23.927Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-06-30T15:11:10.439Z",
+      "groups": [
+        2
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "!dDVQIh4Abom2rs83ICfKVbNzFFzSEyiyuSyISnhO",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "username1",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-06-30T15:19:29Z",
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "!GicaPgddtjHMZS0tGKRf7sj4q7iTlbsWQHuTc2sA",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "username2",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-06-30T15:19:29.947Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$6HkR79C2Aa5Zk7FGF74tJo$8euF20JiBkcz1g6B43RM4Us0gKH/hxPA0aYigUkNtRo=",
+      "last_login": "2022-07-18T20:45:46.578Z",
+      "is_superuser": false,
+      "username": "test_register_common",
+      "first_name": "",
+      "last_name": "",
+      "email": "test_register_common@mail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-07-18T20:45:46.199Z",
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$CF4pvYHJV5fhO3AlrOoZxS$FtGYKMYnP/yb+z5jtkomUAnp/UNcK6Dlh0bWRy32lAk=",
+      "last_login": "2022-07-18T21:27:24.538Z",
+      "is_superuser": false,
+      "username": "usertest2",
+      "first_name": "",
+      "last_name": "",
+      "email": "usertest2@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-07-18T21:27:24.271Z",
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 15,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$upgXtoQxm0nyhedkMKpzmz$UwpwCbamiJH9f5PigZx4oq2uuoyAlsEwn0qg9Eovvfg=",
+      "last_login": "2022-07-25T19:51:29.678Z",
+      "is_superuser": false,
+      "username": "Elizar",
+      "first_name": "",
+      "last_name": "",
+      "email": "eshperber@mail.ru",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-07-25T19:51:25.677Z",
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "newsportal",
+      "model": "author"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "newsportal",
+      "model": "category"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "newsportal",
+      "model": "post"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "newsportal",
+      "model": "postcategory"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "newsportal",
+      "model": "comment"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+      "app_label": "sites",
+      "model": "site"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+      "app_label": "account",
+      "model": "emailaddress"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+      "app_label": "account",
+      "model": "emailconfirmation"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+      "app_label": "socialaccount",
+      "model": "socialaccount"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+      "app_label": "socialaccount",
+      "model": "socialapp"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+      "app_label": "socialaccount",
+      "model": "socialtoken"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+      "app_label": "newsportal",
+      "model": "subscriber"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 19,
+    "fields": {
+      "app_label": "django_apscheduler",
+      "model": "djangojob"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 20,
+    "fields": {
+      "app_label": "django_apscheduler",
+      "model": "djangojobexecution"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "6tm76w4qsu8ge1y3od1guqz8d24rtfxf",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hAKpQwu3fcMZGAGqRqalHZlvLsh6UK3_7333yLgsZdwNN7CQuIqBnH53SKmJ9cO6IH1vsq01n1bouyKPGmT80r8up3u30HBVnqNCEyTy2wwKjVSmjRlzIozWTQ-AoH11hgYlB3Ba_LAqJNOyiXjnfh8ARaiOG0:1o8Mcz:MhEsne_PPhuTfa7hdI4ZwTcoSHXvQ8GD5hCdpXiDUS0",
+      "expire_date": "2022-07-18T14:00:41.497Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "9g1qzy5x4nr6xcbwhrhs4c5as1albk3j",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hAKpQwu3fcMZGAGqRqalHZlvLsh6UK3_7333yLgsZdwNN7CQuIqBnH53SKmJ9cO6IH1vsq01n1bouyKPGmT80r8up3u30HBVnqNCEyTy2wwKjVSmjRlzIozWTQ-AoH11hgYlB3Ba_LAqJNOyiXjnfh8ARaiOG0:1oG5GW:OXS78ZG0czIaJ56wp5Tg9LqGF5tAn_OI8_EvBPUjXK8",
+      "expire_date": "2022-08-08T21:05:24.043Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "cof08onlifdnz6n18h9z1rbdkg60fp4e",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hAKpQwu3fcMZGAGqRqalHZlvLsh6UK3_7333yLgsZdwNN7CQuIqBnH53SKmJ9cO6IH1vsq01n1bouyKPGmT80r8up3u30HBVnqNCEyTy2wwKjVSmjRlzIozWTQ-AoH11hgYlB3Ba_LAqJNOyiXjnfh8ARaiOG0:1o81H5:OCXO7tq2h2Ox6oLxUTCxe9J-60Lam8gNGPM58Fqlgjs",
+      "expire_date": "2022-07-17T15:12:39.687Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "j4yo7fnzoidvjld6durwqmu79up6nc0r",
+    "fields": {
+      "session_data": "eyJzb2NpYWxhY2NvdW50X3N0YXRlIjpbeyJuZXh0IjoiL25ld3MvMSIsInByb2Nlc3MiOiJsb2dpbiIsInNjb3BlIjoiIiwiYXV0aF9wYXJhbXMiOiIifSwiYjZBT0dIT1pXSkJnIl19:1oDuYQ:XRCHjt07RL6WVGZ_kN42LVcgI34fX0Yuo56JiY2DZhw",
+      "expire_date": "2022-08-02T21:14:54.699Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "w0rhji6ffdvp0swl2yx2s10e4fw7zxa4",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hAKpQwu3fcMZGAGqRqalHZlvLsh6UK3_7333yLgsZdwNN7CQuIqBnH53SKmJ9cO6IH1vsq01n1bouyKPGmT80r8up3u30HBVnqNCEyTy2wwKjVSmjRlzIozWTQ-AoH11hgYlB3Ba_LAqJNOyiXjnfh8ARaiOG0:1oFbfu:agsFr-wmacfev4qIfXxrBHF7JZUNbCq8NFQnOESQaIk",
+      "expire_date": "2022-08-07T13:29:38.189Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "zpu5fe5dmv5ob5lxnsfukku4edi9dsyo",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hAKpQwu3fcMZGAGqRqalHZlvLsh6UK3_7333yLgsZdwNN7CQuIqBnH53SKmJ9cO6IH1vsq01n1bouyKPGmT80r8up3u30HBVnqNCEyTy2wwKjVSmjRlzIozWTQ-AoH11hgYlB3Ba_LAqJNOyiXjnfh8ARaiOG0:1o6vq9:HVuiKPgd2vFq_RsmFDdyrzM6AtM_EJH1tqbwVdJsZZw",
+      "expire_date": "2022-07-14T15:12:21.131Z"
+    }
+  },
+  {
+    "model": "newsportal.author",
+    "pk": 1,
+    "fields": {
+      "user": 3,
+      "rating": 13
+    }
+  },
+  {
+    "model": "newsportal.author",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "rating": 8
+    }
+  },
+  {
+    "model": "newsportal.category",
+    "pk": 1,
+    "fields": {
+      "category": "sport"
+    }
+  },
+  {
+    "model": "newsportal.category",
+    "pk": 2,
+    "fields": {
+      "category": "politic"
+    }
+  },
+  {
+    "model": "newsportal.category",
+    "pk": 3,
+    "fields": {
+      "category": "love"
+    }
+  },
+  {
+    "model": "newsportal.category",
+    "pk": 4,
+    "fields": {
+      "category": "hobby"
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 1,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-06-30T15:20:10.652Z",
+      "title": "First article",
+      "body": "first body Sed ut редиска unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "rating": 2
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 3,
+    "fields": {
+      "type_of_post": "NW",
+      "author": 1,
+      "date_time_create": "2022-06-30T15:20:10.684Z",
+      "title": "First news пидорас",
+      "body": "Lorem редиска sit amet, consectetur adipiscing elit. Proin vehicula ipsum ut augue pulvinar, at tristique lorem vestibulum. Praesent mollis eros non turpis tempor dapibus sit amet ut metus. Phasellus id purus lectus. Fusce faucibus rutrum dolor, id ultricies turpis tincidunt vel. Nunc porta sem orci, sit amet aliquet odio dignissim a. Nulla aliquet placerat nisi quis convallis. Sed eros odio, malesuada in lacus eget, suscipit laoreet diam. Duis justo purus, eleifend nec facilisis vitae, pulvinar vel ex. Integer elementum quam ut dolor iaculis, non vulputate sem dignissim. Sed suscipit imperdiet purus rutrum tincidunt. In orci purus, finibus at consectetur tincidunt, imperdiet in lectus. Aenean varius diam vitae justo accumsan, ac aliquam nibh consectetur. Quisque et bibendum neque. Nam sit amet feugiat turpis.  Phasellus congue volutpat justo, sed rhoncus dui elementum et. Nullam sollicitudin magna sit amet dui varius efficitur. Etiam neque turpis, mattis quis nisi quis, volutpat.",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 4,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-03T15:14:25.022Z",
+      "title": "Классический текст Lorem Ipsum, используемый с XVI века",
+      "body": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 5,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-03T15:15:23.316Z",
+      "title": "Абзац 1.10.32 \"de Finibus Bonorum et Malorum\", написанный Цицероном в 45 году н.э.",
+      "body": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\"",
+      "rating": 2
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 6,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-03T15:15:57.109Z",
+      "title": "Английский перевод 1914 года, H. Rackham",
+      "body": "\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 7,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-03T15:16:38.178Z",
+      "title": "Абзац 1.10.33 \"de Finibus Bonorum et Malorum\", написанный Цицероном в 45 году н.э.",
+      "body": "\"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.\"",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 8,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-03T15:17:29.400Z",
+      "title": "Английский перевод 1914 года, H. Rackham",
+      "body": "\"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.\"",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 9,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-03T15:18:20.671Z",
+      "title": "Cos’è Lorem Ipsum?",
+      "body": "Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.",
+      "rating": 3
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 10,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-03T15:18:51.986Z",
+      "title": "Perchè lo utilizziamo?",
+      "body": "È universalmente riconosciuto che un lettore che osserva il layout di una pagina viene distratto dal contenuto testuale se questo è leggibile. Lo scopo dell’utilizzo del Lorem Ipsum è che offre una normale distribuzione delle lettere (al contrario di quanto avviene se si utilizzano brevi frasi ripetute, ad esempio “testo qui”), apparendo come un normale blocco di testo leggibile. Molti software di impaginazione e di web design utilizzano Lorem Ipsum come testo modello. Molte versioni del testo sono state prodotte negli anni, a volte casualmente, a volte di proposito (ad esempio inserendo passaggi ironici).",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 11,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-03T15:19:26.523Z",
+      "title": "Da dove viene?",
+      "body": "Al contrario di quanto si pensi, Lorem Ipsum non è semplicemente una sequenza casuale di caratteri. Risale ad un classico della letteratura latina del 45 AC, cosa che lo rende vecchio di 2000 anni. Richard McClintock, professore di latino al Hampden-Sydney College in Virginia, ha ricercato una delle più oscure parole latine, consectetur, da un passaggio del Lorem Ipsum e ha scoperto tra i vari testi in cui è citata, la fonte da cui è tratto il testo, le sezioni 1.10.32 and 1.10.33 del \"de Finibus Bonorum et Malorum\" di Cicerone. Questo testo è un trattato su teorie di etica, molto popolare nel Rinascimento. La prima riga del Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", è tratta da un passaggio della sezione 1.10.32.  Il brano standard del Lorem Ipsum usato sin dal sedicesimo secolo è riprodotto qui di seguito per coloro che fossero interessati. Anche le sezioni 1.10.32 e 1.10.33 del \"de Finibus Bonorum et Malorum\" di Cicerone sono riprodotte nella loro forma originale, accompagnate dal",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 12,
+    "fields": {
+      "type_of_post": "['NW']",
+      "author": 1,
+      "date_time_create": "2022-07-20T20:41:06.755Z",
+      "title": "['Новость сохр3']",
+      "body": "['Тело новости сохр3']",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 13,
+    "fields": {
+      "type_of_post": "NW",
+      "author": 1,
+      "date_time_create": "2022-07-20T20:45:06.886Z",
+      "title": "Красивый день",
+      "body": "много солнце и тепла, хорошая погода",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 14,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-21T18:23:44.664Z",
+      "title": "Статья для письма",
+      "body": "Тело статьиLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse congue laoreet tellus. Nullam efficitur ultrices arcu, sit amet fermentum mauris lacinia ac. In hac habitasse platea dictumst. Nam hendrerit ac magna in tincidunt. Nunc sodales, tellus sit amet pretium aliquam, dui neque feugiat tortor, id dictum magna quam et diam. Donec sed cursus quam, sit amet imperdiet metus. Quisque sodales feugiat molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tincidunt at ipsum at consectetur.  Proin non lectus dui. Integer sed neque a elit dignissim dignissim. Sed pretium quis felis sit amet fringilla. Morbi id convallis orci, ac vestibulum sem. Praesent ante elit, rhoncus quis pretium eget, fermentum eu nisl. Pellentesque ornare cursus lorem vitae tristique. Pellentesque ut enim non nisl luctus porttitor dignissim vel velit. Phasellus ac convallis justo. Etiam lacinia dapibus fringilla. Cras vitae tortor dui. Maecenas ",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 15,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-21T18:28:31.307Z",
+      "title": "Статья для письма",
+      "body": "Тело статьиLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse congue laoreet tellus. Nullam efficitur ultrices arcu, sit amet fermentum mauris lacinia ac. In hac habitasse platea dictumst. Nam hendrerit ac magna in tincidunt. Nunc sodales, tellus sit amet pretium aliquam, dui neque feugiat tortor, id dictum magna quam et diam. Donec sed cursus quam, sit amet imperdiet metus. Quisque sodales feugiat molestie. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tincidunt at ipsum at consectetur.  Proin non lectus dui. Integer sed neque a elit dignissim dignissim. Sed pretium quis felis sit amet fringilla. Morbi id convallis orci, ac vestibulum sem. Praesent ante elit, rhoncus quis pretium eget, fermentum eu nisl. Pellentesque ornare cursus lorem vitae tristique. Pellentesque ut enim non nisl luctus porttitor dignissim vel velit. Phasellus ac convallis justo. Etiam lacinia dapibus fringilla. Cras vitae tortor dui. Maecenas ",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 16,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-21T18:32:40.730Z",
+      "title": "статья 12345",
+      "body": "тело статьи 12345",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 17,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-21T18:38:52.478Z",
+      "title": "Заголовок статьи 12345",
+      "body": "Тело ставить 12345",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 18,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-21T18:45:29.394Z",
+      "title": "Introduction to MySQL RANK",
+      "body": "In this syntax:  First, the PARTITION BY clause distributes the rows in the result set into partitions by one or more criteria. Second, the ORDER BY clause sorts the rows in each a partition. The RANK() function is operated on the rows of each partition and re-initialized when crossing each partition boundary. The same column values receive the same ranks. When multiple rows share the same rank, the rank of the next row is not consecutive. This is similar to Olympic medaling in that if two athletes share the gold medal, there is no silver medal.",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 19,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-21T18:49:40.313Z",
+      "title": "Привет Елизар",
+      "body": "У меня для тебя хорошее настроение. Погнали пить кофе и смотреть кино",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 20,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-21T19:16:41.857Z",
+      "title": "Елизар ты красавчик",
+      "body": "ты сегодня поиграл в баскетбол, забил кучу мячей в следующий раз обязательно выиграешь. Удачи во всех делах1 Сергей тебе хорошо учит  джанго",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 21,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T13:40:20.141Z",
+      "title": "sddsd",
+      "body": "sdsdsd",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 22,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-24T13:47:33.717Z",
+      "title": "пробуем сигнал",
+      "body": "боди пробуем сигнал",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 23,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T13:52:01.792Z",
+      "title": "dfdf",
+      "body": "dfdfdf",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 24,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T13:52:49.054Z",
+      "title": "dfdf",
+      "body": "dfdfdfdf",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 25,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T14:11:59.489Z",
+      "title": "dfdf",
+      "body": "dfdfdf",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 26,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T14:14:06.043Z",
+      "title": "dfdf",
+      "body": "dfdfdf",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 27,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-24T14:28:40.041Z",
+      "title": "приветМаргарита!",
+      "body": " У тебя красивый текст",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 28,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T14:29:36.316Z",
+      "title": "dfdf",
+      "body": "dfd",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 29,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T14:31:15.230Z",
+      "title": "dfdf",
+      "body": "dfd",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 30,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T14:32:40.937Z",
+      "title": "fg",
+      "body": "ffgfg",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 31,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-24T14:53:17.363Z",
+      "title": "uirjehj",
+      "body": "wreuwguuiclu",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 32,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-25T21:07:42.256Z",
+      "title": "Новая статья 2",
+      "body": "новое тело статьи 2",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 33,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-25T21:09:29.081Z",
+      "title": "стать3_новая",
+      "body": "тело статьи_3",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 34,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-25T21:11:31.453Z",
+      "title": "новая статья 5",
+      "body": "новое тело 5",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 35,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-07-25T21:13:22.268Z",
+      "title": "статьи 8",
+      "body": "тело 8",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 36,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-25T21:20:36.885Z",
+      "title": "cnfnmz 12345",
+      "body": "привет красавчик ",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 37,
+    "fields": {
+      "type_of_post": "NW",
+      "author": 2,
+      "date_time_create": "2022-07-25T21:21:44.342Z",
+      "title": "Статья 231",
+      "body": "Статья тело 12312",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 38,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-25T21:25:12.933Z",
+      "title": "Глава 65",
+      "body": "Пушкин пишет стихи",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 39,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-07-25T21:33:29.649Z",
+      "title": "Лермонтов",
+      "body": "Ночевала тучка золотая",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 40,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-08-02T15:00:37.170Z",
+      "title": "NewTitile",
+      "body": "NewBody",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 41,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-08-02T15:03:21.500Z",
+      "title": "NewTITLE3",
+      "body": "NewBody3",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 42,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-08-02T15:07:19.321Z",
+      "title": "Title5",
+      "body": "body5",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 43,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-08-02T15:13:05.691Z",
+      "title": "Title8",
+      "body": "body8",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 44,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-08-02T15:16:52.038Z",
+      "title": "Title123",
+      "body": "Body123",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 45,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-08-02T15:18:50.074Z",
+      "title": "Title123",
+      "body": "body123",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 46,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 2,
+      "date_time_create": "2022-08-02T15:21:38.800Z",
+      "title": "titlesport",
+      "body": "bodysport",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.post",
+    "pk": 47,
+    "fields": {
+      "type_of_post": "AL",
+      "author": 1,
+      "date_time_create": "2022-08-02T15:22:47.771Z",
+      "title": "Спортивная статья__test",
+      "body": "Уважаемые спортсмены",
+      "rating": 0
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 1,
+    "fields": {
+      "post": 1,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 3,
+    "fields": {
+      "post": 3,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 4,
+    "fields": {
+      "post": 3,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 5,
+    "fields": {
+      "post": 12,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 6,
+    "fields": {
+      "post": 12,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 7,
+    "fields": {
+      "post": 13,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 8,
+    "fields": {
+      "post": 13,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 9,
+    "fields": {
+      "post": 14,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 10,
+    "fields": {
+      "post": 15,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 11,
+    "fields": {
+      "post": 16,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 12,
+    "fields": {
+      "post": 17,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 13,
+    "fields": {
+      "post": 18,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 14,
+    "fields": {
+      "post": 19,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 15,
+    "fields": {
+      "post": 20,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 16,
+    "fields": {
+      "post": 21,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 17,
+    "fields": {
+      "post": 22,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 18,
+    "fields": {
+      "post": 23,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 19,
+    "fields": {
+      "post": 24,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 20,
+    "fields": {
+      "post": 1,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 21,
+    "fields": {
+      "post": 1,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 22,
+    "fields": {
+      "post": 1,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 23,
+    "fields": {
+      "post": 26,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 24,
+    "fields": {
+      "post": 28,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 25,
+    "fields": {
+      "post": 29,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 26,
+    "fields": {
+      "post": 30,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 27,
+    "fields": {
+      "post": 31,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 28,
+    "fields": {
+      "post": 35,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 29,
+    "fields": {
+      "post": 35,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 30,
+    "fields": {
+      "post": 37,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 31,
+    "fields": {
+      "post": 37,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 32,
+    "fields": {
+      "post": 38,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 33,
+    "fields": {
+      "post": 39,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 34,
+    "fields": {
+      "post": 42,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 35,
+    "fields": {
+      "post": 42,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 36,
+    "fields": {
+      "post": 42,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 37,
+    "fields": {
+      "post": 42,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 38,
+    "fields": {
+      "post": 43,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 39,
+    "fields": {
+      "post": 43,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 40,
+    "fields": {
+      "post": 43,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 41,
+    "fields": {
+      "post": 43,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 42,
+    "fields": {
+      "post": 44,
+      "category": 3
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 43,
+    "fields": {
+      "post": 44,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 44,
+    "fields": {
+      "post": 45,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 45,
+    "fields": {
+      "post": 46,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.postcategory",
+    "pk": 46,
+    "fields": {
+      "post": 47,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.comment",
+    "pk": 1,
+    "fields": {
+      "post": 1,
+      "user": 1,
+      "comment": "first comment",
+      "date_time_create": "2022-06-30T15:20:10.713Z",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.comment",
+    "pk": 3,
+    "fields": {
+      "post": 3,
+      "user": 1,
+      "comment": "third comment",
+      "date_time_create": "2022-06-30T15:20:10.725Z",
+      "rating": 1
+    }
+  },
+  {
+    "model": "newsportal.comment",
+    "pk": 4,
+    "fields": {
+      "post": 1,
+      "user": 1,
+      "comment": "fourth comment",
+      "date_time_create": "2022-06-30T15:20:10.735Z",
+      "rating": -1
+    }
+  },
+  {
+    "model": "newsportal.subscriber",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.subscriber",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "category": 1
+    }
+  },
+  {
+    "model": "newsportal.subscriber",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "category": 4
+    }
+  },
+  {
+    "model": "newsportal.subscriber",
+    "pk": 6,
+    "fields": {
+      "user": 15,
+      "category": 2
+    }
+  },
+  {
+    "model": "newsportal.subscriber",
+    "pk": 7,
+    "fields": {
+      "user": 15,
+      "category": 1
+    }
+  },
+  {
+    "model": "sites.site",
+    "pk": 1,
+    "fields": {
+      "domain": "127.0.0.1",
+      "name": "example.com"
+    }
+  },
+  {
+    "model": "account.emailaddress",
+    "pk": 2,
+    "fields": {
+      "user": 5,
+      "email": "test_register_common@mail.com",
+      "verified": false,
+      "primary": true
+    }
+  },
+  {
+    "model": "account.emailaddress",
+    "pk": 3,
+    "fields": {
+      "user": 6,
+      "email": "usertest2@gmail.com",
+      "verified": false,
+      "primary": true
+    }
+  },
+  {
+    "model": "account.emailaddress",
+    "pk": 12,
+    "fields": {
+      "user": 15,
+      "email": "eshperber@mail.ru",
+      "verified": false,
+      "primary": true
+    }
+  },
+  {
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+      "provider": "google",
+      "name": "Google",
+      "client_id": "258478916548-4vgimf9lfl5l3job1ob5bk0sn2trgj1g.apps.googleusercontent.com",
+      "secret": "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",
+      "key": "",
+      "sites": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojob",
+    "pk": "delete_old_job_executions",
+    "fields": {
+      "next_run_time": "2022-07-31T21:00:00Z",
+      "job_state": "gAWVkQQAAAAAAAB9lCiMB3ZlcnNpb26USwGMAmlklIwZZGVsZXRlX29sZF9qb2JfZXhlY3V0aW9uc5SMBGZ1bmOUjEduZXdzcG9ydGFsLm1hbmFnZW1lbnQuY29tbWFuZHMucnVuYXBzY2hlZHVsZXI6ZGVsZXRlX29sZF9qb2JfZXhlY3V0aW9uc5SMB3RyaWdnZXKUjBlhcHNjaGVkdWxlci50cmlnZ2Vycy5jcm9ulIwLQ3JvblRyaWdnZXKUk5QpgZR9lChoAUsCjAh0aW1lem9uZZSMG3B5dHpfZGVwcmVjYXRpb25fc2hpbS5faW1wbJSMCXdyYXBfem9uZZSTlIwIYnVpbHRpbnOUjAdnZXRhdHRylJOUjAh6b25laW5mb5SMCFpvbmVJbmZvlJOUjAlfdW5waWNrbGWUhpRSlIwNRXVyb3BlL01vc2Nvd5RLAYaUUpRoGYaUUpSMCnN0YXJ0X2RhdGWUTowIZW5kX2RhdGWUTowGZmllbGRzlF2UKIwgYXBzY2hlZHVsZXIudHJpZ2dlcnMuY3Jvbi5maWVsZHOUjAlCYXNlRmllbGSUk5QpgZR9lCiMBG5hbWWUjAR5ZWFylIwKaXNfZGVmYXVsdJSIjAtleHByZXNzaW9uc5RdlIwlYXBzY2hlZHVsZXIudHJpZ2dlcnMuY3Jvbi5leHByZXNzaW9uc5SMDUFsbEV4cHJlc3Npb26Uk5QpgZR9lIwEc3RlcJROc2JhdWJoIowKTW9udGhGaWVsZJSTlCmBlH2UKGgnjAVtb250aJRoKYhoKl2UaC4pgZR9lGgxTnNiYXViaCKMD0RheU9mTW9udGhGaWVsZJSTlCmBlH2UKGgnjANkYXmUaCmIaCpdlGguKYGUfZRoMU5zYmF1YmgijAlXZWVrRmllbGSUk5QpgZR9lChoJ4wEd2Vla5RoKYhoKl2UaC4pgZR9lGgxTnNiYXViaCKMDkRheU9mV2Vla0ZpZWxklJOUKYGUfZQoaCeMC2RheV9vZl93ZWVrlGgpiWgqXZRoLIwWV2Vla2RheVJhbmdlRXhwcmVzc2lvbpSTlCmBlH2UKGgxTowFZmlyc3SUSwCMBGxhc3SUSwB1YmF1YmgkKYGUfZQoaCeMBGhvdXKUaCmJaCpdlGgsjA9SYW5nZUV4cHJlc3Npb26Uk5QpgZR9lChoMU5oVEsAaFVLAHViYXViaCQpgZR9lChoJ4wGbWludXRllGgpiWgqXZRoWymBlH2UKGgxTmhUSwBoVUsAdWJhdWJoJCmBlH2UKGgnjAZzZWNvbmSUaCmIaCpdlGhbKYGUfZQoaDFOaFRLAGhVSwB1YmF1YmWMBmppdHRlcpROdWKMCGV4ZWN1dG9ylIwHZGVmYXVsdJSMBGFyZ3OUKYwGa3dhcmdzlH2UaCdoA4wSbWlzZmlyZV9ncmFjZV90aW1llEsBjAhjb2FsZXNjZZSIjA1tYXhfaW5zdGFuY2VzlEsBjA1uZXh0X3J1bl90aW1llIwIZGF0ZXRpbWWUjAhkYXRldGltZZSTlEMKB+YIAQAAAAAAAJRoHYaUUpR1Lg=="
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojob",
+    "pk": "my_job",
+    "fields": {
+      "next_run_time": "2022-07-25T21:02:59Z",
+      "job_state": "gAWVDgQAAAAAAAB9lCiMB3ZlcnNpb26USwGMAmlklIwGbXlfam9ilIwEZnVuY5SMNG5ld3Nwb3J0YWwubWFuYWdlbWVudC5jb21tYW5kcy5ydW5hcHNjaGVkdWxlcjpteV9qb2KUjAd0cmlnZ2VylIwZYXBzY2hlZHVsZXIudHJpZ2dlcnMuY3JvbpSMC0Nyb25UcmlnZ2VylJOUKYGUfZQoaAFLAowIdGltZXpvbmWUjBtweXR6X2RlcHJlY2F0aW9uX3NoaW0uX2ltcGyUjAl3cmFwX3pvbmWUk5SMCGJ1aWx0aW5zlIwHZ2V0YXR0cpSTlIwIem9uZWluZm+UjAhab25lSW5mb5STlIwJX3VucGlja2xllIaUUpSMDUV1cm9wZS9Nb3Njb3eUSwGGlFKUaBmGlFKUjApzdGFydF9kYXRllE6MCGVuZF9kYXRllE6MBmZpZWxkc5RdlCiMIGFwc2NoZWR1bGVyLnRyaWdnZXJzLmNyb24uZmllbGRzlIwJQmFzZUZpZWxklJOUKYGUfZQojARuYW1llIwEeWVhcpSMCmlzX2RlZmF1bHSUiIwLZXhwcmVzc2lvbnOUXZSMJWFwc2NoZWR1bGVyLnRyaWdnZXJzLmNyb24uZXhwcmVzc2lvbnOUjA1BbGxFeHByZXNzaW9ulJOUKYGUfZSMBHN0ZXCUTnNiYXViaCKMCk1vbnRoRmllbGSUk5QpgZR9lChoJ4wFbW9udGiUaCmIaCpdlGguKYGUfZRoMU5zYmF1YmgijA9EYXlPZk1vbnRoRmllbGSUk5QpgZR9lChoJ4wDZGF5lGgpiGgqXZRoLimBlH2UaDFOc2JhdWJoIowJV2Vla0ZpZWxklJOUKYGUfZQoaCeMBHdlZWuUaCmIaCpdlGguKYGUfZRoMU5zYmF1YmgijA5EYXlPZldlZWtGaWVsZJSTlCmBlH2UKGgnjAtkYXlfb2Zfd2Vla5RoKYhoKl2UaC4pgZR9lGgxTnNiYXViaCQpgZR9lChoJ4wEaG91cpRoKYhoKl2UaC4pgZR9lGgxTnNiYXViaCQpgZR9lChoJ4wGbWludXRllGgpiGgqXZRoLimBlH2UaDFOc2JhdWJoJCmBlH2UKGgnjAZzZWNvbmSUaCmJaCpdlGguKYGUfZRoMUs7c2JhdWJljAZqaXR0ZXKUTnVijAhleGVjdXRvcpSMB2RlZmF1bHSUjARhcmdzlCmMBmt3YXJnc5R9lGgnaAOMEm1pc2ZpcmVfZ3JhY2VfdGltZZRLAYwIY29hbGVzY2WUiIwNbWF4X2luc3RhbmNlc5RLAYwNbmV4dF9ydW5fdGltZZSMCGRhdGV0aW1llIwIZGF0ZXRpbWWUk5RDCgfmBxoAAjsAAACUaB2GlFKUdS4="
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 1,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:21:10Z",
+      "duration": "0.01",
+      "finished": "1658780470.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 2,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:21:20Z",
+      "duration": "0.03",
+      "finished": "1658780480.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 3,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:21:30Z",
+      "duration": "0.02",
+      "finished": "1658780490.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 4,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:21:40Z",
+      "duration": "0.29",
+      "finished": "1658780500.29",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 5,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:21:50Z",
+      "duration": "0.03",
+      "finished": "1658780510.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 6,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:22:00Z",
+      "duration": "0.02",
+      "finished": "1658780520.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 7,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:22:10Z",
+      "duration": "0.02",
+      "finished": "1658780530.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 8,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:22:20Z",
+      "duration": "0.16",
+      "finished": "1658780540.16",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 9,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:22:30Z",
+      "duration": "0.41",
+      "finished": "1658780550.41",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 10,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:22:40Z",
+      "duration": "0.29",
+      "finished": "1658780560.29",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 11,
+    "fields": {
+      "job": "my_job",
+      "status": "Missed!",
+      "run_time": "2022-07-25T20:22:50Z",
+      "duration": "1.22",
+      "finished": "1658780571.22",
+      "exception": "Run time of job 'my_job' was missed!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 12,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:23:00Z",
+      "duration": "0.12",
+      "finished": "1658780580.12",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 13,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:23:10Z",
+      "duration": "0.24",
+      "finished": "1658780590.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 14,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:23:20Z",
+      "duration": "0.03",
+      "finished": "1658780600.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 15,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:23:30Z",
+      "duration": "0.07",
+      "finished": "1658780610.07",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 16,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:23:40Z",
+      "duration": "0.54",
+      "finished": "1658780620.54",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 17,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:23:50Z",
+      "duration": "0.02",
+      "finished": "1658780630.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 18,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:24:00Z",
+      "duration": "0.03",
+      "finished": "1658780640.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 19,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:24:10Z",
+      "duration": "0.01",
+      "finished": "1658780650.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 20,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:24:20Z",
+      "duration": "0.02",
+      "finished": "1658780660.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 21,
+    "fields": {
+      "job": "my_job",
+      "status": "Missed!",
+      "run_time": "2022-07-25T20:24:30Z",
+      "duration": "1.00",
+      "finished": "1658780671.00",
+      "exception": "Run time of job 'my_job' was missed!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 22,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:24:40Z",
+      "duration": "0.17",
+      "finished": "1658780680.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 23,
+    "fields": {
+      "job": "my_job",
+      "status": "Missed!",
+      "run_time": "2022-07-25T20:24:50Z",
+      "duration": "1.20",
+      "finished": "1658780691.20",
+      "exception": "Run time of job 'my_job' was missed!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 24,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:25:00Z",
+      "duration": "0.41",
+      "finished": "1658780700.41",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 25,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:25:10Z",
+      "duration": "0.04",
+      "finished": "1658780710.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 26,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:25:20Z",
+      "duration": "0.02",
+      "finished": "1658780720.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 27,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:25:30Z",
+      "duration": "0.06",
+      "finished": "1658780730.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 28,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:25:40Z",
+      "duration": "0.09",
+      "finished": "1658780740.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 29,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:25:50Z",
+      "duration": "0.02",
+      "finished": "1658780750.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 30,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:26:00Z",
+      "duration": "0.03",
+      "finished": "1658780760.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 31,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:26:10Z",
+      "duration": "0.14",
+      "finished": "1658780770.14",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 32,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:26:20Z",
+      "duration": "0.21",
+      "finished": "1658780780.21",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 33,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:26:30Z",
+      "duration": "0.02",
+      "finished": "1658780790.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 34,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:26:40Z",
+      "duration": "0.02",
+      "finished": "1658780800.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 35,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:26:50Z",
+      "duration": "0.13",
+      "finished": "1658780810.13",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 36,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:27:00Z",
+      "duration": "0.03",
+      "finished": "1658780820.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 37,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:27:10Z",
+      "duration": "0.02",
+      "finished": "1658780830.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 38,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:27:20Z",
+      "duration": "0.03",
+      "finished": "1658780840.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 39,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:27:30Z",
+      "duration": "0.02",
+      "finished": "1658780850.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 40,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:27:40Z",
+      "duration": "0.06",
+      "finished": "1658780860.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 41,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:27:50Z",
+      "duration": "0.01",
+      "finished": "1658780870.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 42,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:28:00Z",
+      "duration": "0.03",
+      "finished": "1658780880.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 43,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:28:10Z",
+      "duration": "0.09",
+      "finished": "1658780890.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 44,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:28:20Z",
+      "duration": "0.06",
+      "finished": "1658780900.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 45,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:28:30Z",
+      "duration": "0.02",
+      "finished": "1658780910.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 46,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:28:40Z",
+      "duration": "0.02",
+      "finished": "1658780920.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 47,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:28:50Z",
+      "duration": "0.09",
+      "finished": "1658780930.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 48,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:29:00Z",
+      "duration": "0.02",
+      "finished": "1658780940.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 49,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:29:10Z",
+      "duration": "0.03",
+      "finished": "1658780950.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 50,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:29:20Z",
+      "duration": "0.12",
+      "finished": "1658780960.12",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 51,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:29:30Z",
+      "duration": "0.24",
+      "finished": "1658780970.24",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 52,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:29:40Z",
+      "duration": "0.05",
+      "finished": "1658780980.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 53,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:29:50Z",
+      "duration": "0.37",
+      "finished": "1658780990.37",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 54,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:30:00Z",
+      "duration": "0.77",
+      "finished": "1658781000.77",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 55,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:30:10Z",
+      "duration": "0.43",
+      "finished": "1658781010.43",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 56,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:30:20Z",
+      "duration": "0.40",
+      "finished": "1658781020.40",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 57,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:30:30Z",
+      "duration": "0.04",
+      "finished": "1658781030.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 58,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:30:40Z",
+      "duration": "0.05",
+      "finished": "1658781040.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 59,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:30:50Z",
+      "duration": "0.16",
+      "finished": "1658781050.16",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 60,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:31:00Z",
+      "duration": "0.17",
+      "finished": "1658781060.17",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 61,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:31:10Z",
+      "duration": "0.02",
+      "finished": "1658781070.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 62,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:31:20Z",
+      "duration": "0.04",
+      "finished": "1658781080.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 63,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:31:30Z",
+      "duration": "0.07",
+      "finished": "1658781090.07",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 64,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:31:40Z",
+      "duration": "0.05",
+      "finished": "1658781100.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 65,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:31:50Z",
+      "duration": "0.05",
+      "finished": "1658781110.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 66,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:32:00Z",
+      "duration": "0.03",
+      "finished": "1658781120.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 67,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:32:10Z",
+      "duration": "0.10",
+      "finished": "1658781130.10",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 68,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:32:20Z",
+      "duration": "0.02",
+      "finished": "1658781140.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 69,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:32:30Z",
+      "duration": "0.16",
+      "finished": "1658781150.16",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 70,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:32:40Z",
+      "duration": "0.02",
+      "finished": "1658781160.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 71,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:32:50Z",
+      "duration": "0.02",
+      "finished": "1658781170.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 72,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:33:00Z",
+      "duration": "0.02",
+      "finished": "1658781180.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 73,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:33:10Z",
+      "duration": "0.02",
+      "finished": "1658781190.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 74,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:33:20Z",
+      "duration": "0.03",
+      "finished": "1658781200.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 75,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:33:30Z",
+      "duration": "0.02",
+      "finished": "1658781210.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 76,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:33:40Z",
+      "duration": "0.06",
+      "finished": "1658781220.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 77,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:33:50Z",
+      "duration": "0.03",
+      "finished": "1658781230.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 78,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:34:00Z",
+      "duration": "0.02",
+      "finished": "1658781240.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 79,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:34:10Z",
+      "duration": "0.03",
+      "finished": "1658781250.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 80,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:34:20Z",
+      "duration": "0.08",
+      "finished": "1658781260.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 81,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:34:30Z",
+      "duration": "0.05",
+      "finished": "1658781270.05",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 82,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:34:40Z",
+      "duration": "0.01",
+      "finished": "1658781280.01",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 83,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:34:50Z",
+      "duration": "0.04",
+      "finished": "1658781290.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 84,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:35:00Z",
+      "duration": "0.07",
+      "finished": "1658781300.07",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 85,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:35:10Z",
+      "duration": "0.02",
+      "finished": "1658781310.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 86,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:35:20Z",
+      "duration": "0.02",
+      "finished": "1658781320.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 87,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:35:30Z",
+      "duration": "0.07",
+      "finished": "1658781330.07",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 88,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:35:40Z",
+      "duration": "0.85",
+      "finished": "1658781340.85",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 89,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:35:50Z",
+      "duration": "0.08",
+      "finished": "1658781350.08",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 90,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:36:00Z",
+      "duration": "0.03",
+      "finished": "1658781360.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 91,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:36:10Z",
+      "duration": "0.06",
+      "finished": "1658781370.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 92,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:36:20Z",
+      "duration": "0.03",
+      "finished": "1658781380.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 93,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:36:30Z",
+      "duration": "0.02",
+      "finished": "1658781390.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 94,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:36:40Z",
+      "duration": "0.02",
+      "finished": "1658781400.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 95,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:36:50Z",
+      "duration": "0.04",
+      "finished": "1658781410.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 96,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:37:00Z",
+      "duration": "0.02",
+      "finished": "1658781420.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 97,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:37:10Z",
+      "duration": "0.04",
+      "finished": "1658781430.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 98,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:37:20Z",
+      "duration": "0.15",
+      "finished": "1658781440.15",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 99,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:37:30Z",
+      "duration": "0.02",
+      "finished": "1658781450.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 100,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:37:40Z",
+      "duration": "0.02",
+      "finished": "1658781460.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 101,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:37:50Z",
+      "duration": "0.03",
+      "finished": "1658781470.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 102,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:38:00Z",
+      "duration": "0.02",
+      "finished": "1658781480.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 103,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:38:10Z",
+      "duration": "0.02",
+      "finished": "1658781490.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 104,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:38:20Z",
+      "duration": "0.46",
+      "finished": "1658781500.46",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 105,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:38:30Z",
+      "duration": "0.09",
+      "finished": "1658781510.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 106,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:38:40Z",
+      "duration": "0.02",
+      "finished": "1658781520.02",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 107,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:38:50Z",
+      "duration": "0.09",
+      "finished": "1658781530.09",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 108,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:39:00Z",
+      "duration": "0.03",
+      "finished": "1658781540.03",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 109,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:39:10Z",
+      "duration": "0.06",
+      "finished": "1658781550.06",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 110,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:41:59Z",
+      "duration": "0.41",
+      "finished": "1658781719.41",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(post_data__range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 111,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:42:00Z",
+      "duration": "0.41",
+      "finished": "1658781720.41",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(post_data__range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 112,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:42:59Z",
+      "duration": "0.03",
+      "finished": "1658781779.03",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(post_data__range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 113,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:43:00Z",
+      "duration": "0.04",
+      "finished": "1658781780.04",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(post_data__range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 114,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:43:59Z",
+      "duration": "0.05",
+      "finished": "1658781839.05",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(date_time_create_range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 115,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:44:00Z",
+      "duration": "0.10",
+      "finished": "1658781840.10",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(date_time_create_range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 116,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:44:59Z",
+      "duration": "0.03",
+      "finished": "1658781899.03",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(date_time_create_range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 117,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:45:00Z",
+      "duration": "0.11",
+      "finished": "1658781900.11",
+      "exception": "Cannot resolve keyword 'post_data' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(date_time_create_range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 118,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:45:59Z",
+      "duration": "0.04",
+      "finished": "1658781959.04",
+      "exception": "Cannot resolve keyword 'date_time_create_range' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(date_time_create_range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 119,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:46:00Z",
+      "duration": "0.03",
+      "finished": "1658781960.03",
+      "exception": "Cannot resolve keyword 'date_time_create_range' into field. Choices are: author, author_id, body, category, comment, date_time_create, id, postcategory, rating, title, type_of_post",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 26, in my_job\n    posts = Post.objects.filter(date_time_create_range=(start_date, end_date))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/manager.py\", line 85, in manager_method\n    return getattr(self.get_queryset(), name)(*args, **kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1071, in filter\n    return self._filter_or_exclude(False, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1089, in _filter_or_exclude\n    clone._filter_or_exclude_inplace(negate, args, kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/query.py\", line 1096, in _filter_or_exclude_inplace\n    self._query.add_q(Q(*args, **kwargs))\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1502, in add_q\n    clause, _ = self._add_q(q_object, self.used_aliases)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1532, in _add_q\n    child_clause, needed_inner = self.build_filter(\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1377, in build_filter\n    lookups, parts, reffed_expression = self.solve_lookup_type(arg)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1187, in solve_lookup_type\n    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/django/db/models/sql/query.py\", line 1677, in names_to_path\n    raise FieldError(\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 120,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:46:59Z",
+      "duration": "0.17",
+      "finished": "1658782019.17",
+      "exception": "'Category' object has no attribute 'subscribers'",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 35, in my_job\n    to=category.get_subscribers_emails())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/models.py\", line 35, in get_subscribers_emails\n    for user in self.subscribers.all():\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 121,
+    "fields": {
+      "job": "my_job",
+      "status": "Error!",
+      "run_time": "2022-07-25T20:47:00Z",
+      "duration": "0.09",
+      "finished": "1658782020.09",
+      "exception": "'Category' object has no attribute 'subscribers'",
+      "traceback": "  File \"/Users/anna/PycharmProjects/python/homework_8_5/venv/lib/python3.10/site-packages/apscheduler/executors/base.py\", line 125, in run_job\n    retval = job.func(*job.args, **job.kwargs)\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/management/commands/runapscheduler.py\", line 35, in my_job\n    to=category.get_subscribers_emails())\n  File \"/Users/anna/PycharmProjects/python/homework_8_5/newsportal/models.py\", line 35, in get_subscribers_emails\n    for user in self.subscribers.all():\n"
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 122,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:53:59Z",
+      "duration": "2.04",
+      "finished": "1658782441.04",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 123,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T20:54:00Z",
+      "duration": "0.06",
+      "finished": "1658782440.06",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 124,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:54:59Z",
+      "duration": "1.66",
+      "finished": "1658782500.66",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 125,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T20:55:00Z",
+      "duration": "0.07",
+      "finished": "1658782500.07",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 126,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:55:59Z",
+      "duration": "2.00",
+      "finished": "1658782561.00",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 127,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T20:56:00Z",
+      "duration": "0.18",
+      "finished": "1658782560.18",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 128,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:56:59Z",
+      "duration": "1.57",
+      "finished": "1658782620.57",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 129,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T20:57:00Z",
+      "duration": "0.14",
+      "finished": "1658782620.14",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 130,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:57:59Z",
+      "duration": "1.45",
+      "finished": "1658782680.45",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 131,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T20:58:00Z",
+      "duration": "0.06",
+      "finished": "1658782680.06",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 132,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:58:59Z",
+      "duration": "2.00",
+      "finished": "1658782741.00",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 133,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T20:59:00Z",
+      "duration": "0.16",
+      "finished": "1658782740.16",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 134,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T20:59:59Z",
+      "duration": "2.11",
+      "finished": "1658782801.11",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 135,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T21:00:00Z",
+      "duration": "0.83",
+      "finished": "1658782800.83",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 136,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T21:00:59Z",
+      "duration": "1.71",
+      "finished": "1658782860.71",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 137,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T21:01:00Z",
+      "duration": "0.14",
+      "finished": "1658782860.14",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 138,
+    "fields": {
+      "job": "my_job",
+      "status": "Executed",
+      "run_time": "2022-07-25T21:01:59Z",
+      "duration": "1.39",
+      "finished": "1658782920.39",
+      "exception": null,
+      "traceback": null
+    }
+  },
+  {
+    "model": "django_apscheduler.djangojobexecution",
+    "pk": 139,
+    "fields": {
+      "job": "my_job",
+      "status": "Max instances!",
+      "run_time": "2022-07-25T21:02:00Z",
+      "duration": "0.07",
+      "finished": "1658782920.07",
+      "exception": "Execution of job 'my_job' skipped: maximum number of running instances reached!",
+      "traceback": null
+    }
+  }
+]
